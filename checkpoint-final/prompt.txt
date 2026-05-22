@@ -1,1 +1,0 @@
-Crée une application Todo simple en utilisant uniquement HTML, CSS et JavaScript vanilla. L’application doit permettre d’ajouter des tâches, de les marquer comme terminées et de les supprimer. L’interface doit être claire, responsive et facile à utiliser. Tout le code doit être contenu dans un seul fichier HTML, sans utiliser de frameworks.
